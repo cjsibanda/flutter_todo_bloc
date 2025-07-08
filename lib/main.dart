@@ -6,6 +6,7 @@ import 'bloc/todo/todo_state.dart';
 import 'models/todo.dart';
 import 'package:uuid/uuid.dart';
 
+//Entry Point
 void main() {
   runApp(const MyApp());
 }
